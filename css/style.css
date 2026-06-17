@@ -788,7 +788,7 @@ body {
   justify-content: center;
   padding: 10px;
   border-radius: 50%;
-  background-color: var(--color-title);
+  background: linear-gradient(180deg, #7ec9e05b 0%, #e4d8c167 100%);
   transition: all 0.3s;
 }
 
